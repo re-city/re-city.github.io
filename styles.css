@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Calibri', sans-serif;
+  background-color: white;
+  color: #444;
+  text-align: center;
+}
+
+.container {
+  padding: 50px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.coming-soon {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-family: 'Lexend', sans-serif;
+  font-size: 150px;
+  color: #2f72e4;
+  margin: 0;
+}
+
+.title span {
+  color: #2f72e4;
+}
+
+.subtitle {
+  font-size: 32px;
+  margin: 20px 0;
+}
+
+.date {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.description {
+  font-size: 28px;
+  margin: 30px 0;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.footer-item {
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.footer-item img {
+  width: 30px;
+  height: 30px;
+}
+
+.footer-item a {
+  color: #444;
+  text-decoration: none;
+}
+
+.lang-switch {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+
+.lang-btn {
+  font-family: 'Calibri', sans-serif;
+  text-decoration: none;
+  color: #2f72e4;
+  border: 1px solid #2f72e4;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: #2f72e4;
+  color: white;
+}

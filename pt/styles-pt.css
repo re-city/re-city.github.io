@@ -4,7 +4,7 @@ body {
   padding: 0;
   font-family: 'Calibri', sans-serif;
   background-color: white;
-  color: #444;
+  color: #58595B;
   text-align: center;
 }
 
@@ -23,8 +23,8 @@ body {
 .lang-btn {
   font-family: 'Calibri', sans-serif;
   text-decoration: none;
-  color: #2f72e4;
-  border: 1px solid #2f72e4;
+  color: #D91378;
+  border: 1px solid #D91378;
   padding: 6px 12px;
   border-radius: 6px;
   font-weight: bold;
@@ -33,7 +33,7 @@ body {
 }
 
 .lang-btn:hover {
-  background-color: #2f72e4;
+  background-color: #D91378;
   color: white;
 }
 
